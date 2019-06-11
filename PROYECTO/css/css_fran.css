@@ -1,0 +1,39 @@
+/*CSS FRAN *//*CSS FRAN *//*CSS FRAN *//*CSS FRAN *//*CSS FRAN */
+/*CSS FRAN *//*CSS FRAN *//*CSS FRAN *//*CSS FRAN *//*CSS FRAN */
+/*CSS FRAN *//*CSS FRAN *//*CSS FRAN *//*CSS FRAN *//*CSS FRAN */
+
+/* Estilo para botones del index */
+.divBotonesIndex{
+	float: left;
+	text-align: center;
+}
+
+.padding_index{
+
+    padding-top: 50px;
+
+    padding-bottom: 50px;
+
+}
+
+
+/* Centrar imagenes y textos */
+.centrar{
+	text-align: center;
+	display: block;
+	margin: auto;
+
+}
+
+
+
+li.listaMorosos{
+	background: #cce5ff;
+    margin: 5px;
+}
+
+.listaMorosos {
+    text-align: center;
+	display: block;
+	margin: auto;
+}

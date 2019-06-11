@@ -1,0 +1,106 @@
+/*Estilo para el balance*/
+
+#indique{
+	font-family: sans-serif;
+	color: white;
+	text-align: center;
+	background-color: rgb(40, 72, 255);
+}
+
+#formularioBalance{
+	text-align: center;
+	border-style: solid;
+	border-color: rgb(40, 72, 255);
+}
+
+#cuepoBalance{
+	background-color: #0055ff;
+}
+
+.espacioBalance{
+	float: left;
+}
+
+/*Estilo exito_balance*/
+
+#resBalance{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	background-color: rgb(40, 72, 255);
+
+}
+
+#bal{
+	text-align: center;
+	background-color: #80bfff;
+}
+
+#ing{
+	color: green;
+	text-align: center;
+	background-color: #66b3ff;
+}
+
+#gas{
+	color: red;
+	text-align: center;
+	background-color: #80bfff;
+}
+
+/*Estilo nuevoPedido*/
+#new{
+	text-align: center;
+	color: white;
+	background-color: blue;
+}
+
+.titulosNP{
+	text-align: center;
+	border-style: solid;
+	border-color: lightblue;
+}
+
+#submitNP{
+	text-align: center;
+}
+
+#exitoPedido{
+	text-align: center;
+	color: green;
+	font-size: 25px;
+}
+
+#otroPedido{
+	text-align: center;
+	font-size: 25px;
+}
+
+.prop{
+	text-align: center;
+	font-size: 15px;
+	color: #0080ff;
+
+}
+
+#otroPedido{
+	padding: 10px;
+	border-color: blue;
+}
+
+h1.titulosSer{
+	color: white;
+	background-color: rgb(40, 72, 255);
+}
+.titulosSer{
+	color: white;
+	text-align: center;
+	background-color: rgb(40, 72, 255);
+}
+
+/*estilo para la descripción de los servicios*/
+.descripcion{
+	text-align: center;
+}
+
